@@ -1,0 +1,15 @@
+# Eclipse
+/.classpath
+/.project
+/.settings
+
+# Maven
+/target
+
+# Build files / binaries
+/build.xml
+/build
+/bin
+/dist
+/manifest.mf
+/lib
